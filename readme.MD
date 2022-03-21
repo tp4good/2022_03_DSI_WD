@@ -5,7 +5,7 @@
    1. DA Data Analyst
    1. DS Data Scientist
    1. DE Data Engineer
-   1. AAD Analytic Application Developer)
+   1. AAD Analytic Application Developer
 1. Find an initial dataset you want to use for capstone
 1. List first idea of goals for capstone
 
